@@ -6,7 +6,7 @@
  * this program prints "Base ten numbers
  * Return: 0
  */
-in main(void)
+int main(void)
 {
 	int n;
 
