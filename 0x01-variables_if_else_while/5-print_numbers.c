@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * mian - all single base ten numbers
+ * main - print if the number is positive, zero, or negative
  *
  * Description: using the main function
- * this program prints "Base ten numbers
+ * this program prints "Programming is positive, zero, or negative
  * Return: 0
  */
 int main(void)
