@@ -5,7 +5,7 @@
  * Description: fibonacci suits elements
  *  Return: 0
  */
-int mai(void))
+int mai(void)
 {
 	unsigned long n1 = 0, n2 = 1, n3 = 0, sum = 0;
 
