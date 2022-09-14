@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * main - prints sum of even fibonacci suits elements
- *
- * Description: fibonacci suits elements
- *  Return: 0
+ * main - prints sum of even fibonacci
+ * suits elements
+ * fibonacci suits elements
+ * Return: return 0
  */
 int mai(void)
 {
