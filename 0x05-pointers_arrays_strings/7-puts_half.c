@@ -18,7 +18,7 @@ void puts_half(char *str)
 
 	if (index % 2 == 1)
 	{
-		putchar(str[half]);
+		printf(str[half]);
 		half++;
 	}
 	putchar('\n');
